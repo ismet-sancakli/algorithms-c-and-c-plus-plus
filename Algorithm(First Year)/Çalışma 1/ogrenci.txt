@@ -1,0 +1,7 @@
+1.Ögrencinin bilgileri : 
+------------------------------
+isim ismet
+yas : 12
+not ortalamasý : 94.00
+
+

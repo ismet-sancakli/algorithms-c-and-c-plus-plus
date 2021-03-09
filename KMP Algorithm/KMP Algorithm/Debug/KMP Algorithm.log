@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+c:\users\İsmet\source\repos\kmp algorithm\kmp algorithm\kaynak.cpp(94): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  KMP Algorithm.vcxproj -> C:\Users\İSMET\Source\Repos\KMP Algorithm\Debug\KMP Algorithm.exe

@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+c:\users\İsmet\source\repos\stack (ll.)\stack (ll.)\kaynak.cpp(53): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'Stack *'
+  Stack (LL.).vcxproj -> C:\Users\İSMET\Source\Repos\Stack (LL.)\Debug\Stack (LL.).exe

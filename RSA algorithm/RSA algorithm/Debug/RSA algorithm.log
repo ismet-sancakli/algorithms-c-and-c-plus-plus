@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+c:\users\İsmet\source\repos\rsa algorithm\rsa algorithm\kaynak.cpp(68): warning C4101: 'ch': yerel değişken başvurusu kaldırıldı
+  RSA algorithm.vcxproj -> C:\Users\İSMET\Source\Repos\RSA algorithm\Debug\RSA algorithm.exe

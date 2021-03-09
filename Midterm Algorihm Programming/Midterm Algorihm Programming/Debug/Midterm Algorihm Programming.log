@@ -1,0 +1,6 @@
+﻿  Kaynak.c
+c:\users\İsmet\source\repos\midterm algorihm programming\midterm algorihm programming\kaynak.c(44): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\İsmet\source\repos\midterm algorihm programming\midterm algorihm programming\kaynak.c(48): warning C4477: 'printf' : '%s' biçim dizesi 'char *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int'
+c:\users\İsmet\source\repos\midterm algorihm programming\midterm algorihm programming\kaynak.c(52): warning C4477: 'printf' : '%s' biçim dizesi 'char *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int'
+c:\users\İsmet\source\repos\midterm algorihm programming\midterm algorihm programming\kaynak.c(56): warning C4477: 'printf' : '%s' biçim dizesi 'char *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int'
+  Midterm Algorihm Programming.vcxproj -> C:\Users\İSMET\Source\Repos\Midterm Algorihm Programming\Debug\Midterm Algorihm Programming.exe

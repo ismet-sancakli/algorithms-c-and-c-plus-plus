@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+c:\users\İsmet\source\repos\linked list\linked list\kaynak.cpp(143): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'list *'
+  Linked List.vcxproj -> C:\Users\İSMET\Source\Repos\Linked List\Debug\Linked List.exe

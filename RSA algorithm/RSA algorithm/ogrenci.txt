@@ -1,0 +1,35 @@
+1.Ögrencinin bilgileri : 
+------------------------------
+isim a
+yas : 1
+not ortalamasý : 24.00
+
+
+2.Ögrencinin bilgileri : 
+------------------------------
+isim s
+yas : 2
+not ortalamasý : 34.40
+
+
+3.Ögrencinin bilgileri : 
+------------------------------
+isim e
+yas : 23
+not ortalamasý : 75.80
+
+
+4.Ögrencinin bilgileri : 
+------------------------------
+isim w
+yas : 4
+not ortalamasý : 98.60
+
+
+5.Ögrencinin bilgileri : 
+------------------------------
+isim qw
+yas : 6
+not ortalamasý : 63.60
+
+

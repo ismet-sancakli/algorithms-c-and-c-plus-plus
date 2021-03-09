@@ -1,0 +1,29 @@
+﻿  Kaynak.c
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(106): error C2440: 'tür dönüştürme': 'void *' - 'student' dönüşümü yapılamıyor
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(106): error C2440: '=': 'student' - 'student *' dönüşümü yapılamıyor
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(107): error C2440: 'tür dönüştürme': 'void *' - 'student' dönüşümü yapılamıyor
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(109): error C2440: 'işlev': 'FILE' - 'FILE *const ' dönüşümü yapılamıyor
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(109): warning C4024: 'fscanf': 1 biçimsel ve gerçek parametresi için farklı türler
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(109): error C2232: '->name': sol işlenen 'struct' türünde; '.' kullanın
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(109): error C2232: '->surname': sol işlenen 'struct' türünde; '.' kullanın
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(109): error C2232: '->grade': sol işlenen 'struct' türünde; '.' kullanın
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(109): warning C4473: 'fscanf' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+  c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(109): note: yer tutucular ve bunların parametreleri 3 değişen sayıda bağımsız değişken bekliyor, ancak 0 tane sağlandı
+  c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(109): note: eksik 1 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(110): error C2440: 'işlev': 'FILE' - 'FILE *' dönüşümü yapılamıyor
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(110): warning C4024: 'feof': 1 biçimsel ve gerçek parametresi için farklı türler
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(111): error C2440: 'işlev': 'FILE' - 'FILE *const ' dönüşümü yapılamıyor
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(111): warning C4024: 'fscanf': 1 biçimsel ve gerçek parametresi için farklı türler
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(112): error C2232: '->grade': sol işlenen 'struct' türünde; '.' kullanın
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(113): error C2440: 'işlev': 'student' - 'student *' dönüşümü yapılamıyor
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(113): warning C4024: 'copystudent': 1 biçimsel ve gerçek parametresi için farklı türler
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(115): error C2440: 'işlev': 'FILE' - 'FILE *' dönüşümü yapılamıyor
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(115): warning C4024: 'fclose': 1 biçimsel ve gerçek parametresi için farklı türler
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(116): error C2232: '->name': sol işlenen 'struct' türünde; '.' kullanın
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(116): error C2232: '->surname': sol işlenen 'struct' türünde; '.' kullanın
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(116): error C2232: '->grade': sol işlenen 'struct' türünde; '.' kullanın
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(116): warning C4473: 'printf' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+  c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(116): note: yer tutucular ve bunların parametreleri 3 değişen sayıda bağımsız değişken bekliyor, ancak 0 tane sağlandı
+  c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(116): note: eksik 1 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(105): error C2440: 'başlatılıyor': 'void *' - 'student' dönüşümü yapılamıyor
+c:\users\İsmet\source\repos\palindrome\palindrome\kaynak.c(108): error C2440: 'başlatılıyor': 'FILE *' - 'FILE' dönüşümü yapılamıyor
